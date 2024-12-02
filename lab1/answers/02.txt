@@ -1,0 +1,19 @@
+
+2) Cite três ferramentas ou tecnologias amplamente usadas no
+desenvolvimento web e explique como elas ajudam no processo
+de criação de aplicações web.
+
+
+Resposta: 1. NodeJS - possibilita a criação de APIs utilizando
+JavaScript, o que facilita no desenvolvimento, já que é uma 
+linguagem para web por construção. Isso facilita a integração
+entre backend e o frontend.
+2. ReactJS - é um framework para desenvolvimento frontend utilizando
+JavaScript. Facilita muito a manipulação da DOM e possui otimizações
+que deixam as páginas web ainda mais leves.
+3. MongoDB - é um banco de dados não relacional. Muito útil para 
+o desenvolvimento de projetos simples, por não precisar de uma 
+estrutura bem definida nos objetos do banco, e por integrar bem com
+a notação de JSON. Apesar de precisar de muitos cuidados ao se utilizar,
+já que o mal uso do conceito do MongoDB pode gerar sérios problemas
+de desempenho.
