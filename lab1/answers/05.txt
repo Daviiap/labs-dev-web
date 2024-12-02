@@ -3,3 +3,10 @@
 de site com sua dupla. Qual seria sua abordagem inicial para
 organizar as tarefas, escolher ferramentas e implementar boas
 práticas de versionamento e desenvolvimento?
+
+
+Resposta: Inicialmente eu criaria um projeto base no git, para
+ter um ponto de partida. Então, depois de elicitar os requisitos
+do sistema, eu faria o planejamento de tarefas atômicas e que
+idealmente possam ser paralelizadas. Então, depois de definir as 
+tarefas bem, eu começaria o desenvolvimento.

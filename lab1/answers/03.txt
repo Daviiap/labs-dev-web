@@ -1,3 +1,11 @@
 
 3) O que é versionamento de código e por que ele é essencial no
 desenvolvimento colaborativo de software?
+
+
+Resposta: O versionamento de código permite que o desenvolvedor 
+trabalhe no mesmo projeto e faça modificações em versões separadas, 
+isso permite uma maior liberdade no desenvolvimento, já que vários 
+desenvolvedores podem trabalhar em paralelo em cima de uma mesma 
+base de código, sem que as modificações de um interfira nas modificações
+do outro.
